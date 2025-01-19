@@ -1,7 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-# Título do Projeto 
-Benefícios da IA para o Mercado de Seguros.
+# Benefícios da IA para o Mercado de Seguros.
 
 ## 📒 Descrição
 Breve lembrete de como o uso da IA pode aprimorar o negócio de uma Companhia de seguros.
